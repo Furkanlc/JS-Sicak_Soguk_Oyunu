@@ -1,0 +1,11 @@
+{
+  "name": "sicaksoguk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/main.css -w"
+  },
+  "author": "furkanglc",
+  "license": "ISC"
+}
